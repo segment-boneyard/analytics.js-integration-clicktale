@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-clicktale",
   "repo": "segment-integrations/analytics.js-integration-clicktale",
   "description": "The Clicktale analytics.js integration.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
